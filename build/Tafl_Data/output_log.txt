@@ -1,0 +1,241 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x679a)
+    Vendor:   ATI
+    VRAM:     3053 MB
+    Driver:   22.19.162.4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Cinemachine.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Cinemachine.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Facebook.Unity.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Facebook.Unity.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Facebook.Unity.Arcade.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Facebook.Unity.Arcade.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\FacebookNamedPipeClient.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\FacebookNamedPipeClient.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Facebook.Unity.Settings.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\Facebook.Unity.Settings.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\BouncyCastle_GameSparks.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\BouncyCastle_GameSparks.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\GameSparks.Api.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\GameSparks.Api.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\GameSparks.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\GameSparks.dll into Unity Child Domain
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\GameSparksRT.dll (this message is harmless)
+Loading C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\GameSparksRT.dll into Unity Child Domain
+- Completed reload, in  0.434 seconds
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Unity Projects\Tafl\Build\Tafl_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The tree main tree_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree main tree_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree main tree_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree main treeb_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree main treeb_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree main treeb_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree willow tree_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree willow tree_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree pine treeb_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree pine treeb_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree pine tree_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree pine tree_terrain must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 1.060928 ms
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+true
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 462)
+
+FormatException: Unknown char
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at APIManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 462)
+
+GS: Connecting to:wss://preview-e308037UgFv7.ws.gamesparks.net/ws/device/e308037UgFv7?deviceOS=WINDOWS&deviceID=f800b5cd77d761033567474c36dbbc8794a9b777&SDK=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 12cc -> priority: 1 
+  Thread -> id: 944 -> priority: 1 
+IPv6 on!
+GS: OPENED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: RECV:{"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-muw000-se07.gamesparks.net/ws/device/e308037UgFv7?deviceOS=WINDOWS&deviceID=f800b5cd77d761033567474c36dbbc8794a9b777&SDK=","requestId": "0"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: Connecting to:wss://gsp-muw000-se07.gamesparks.net/ws/device/e308037UgFv7?deviceOS=WINDOWS&deviceID=f800b5cd77d761033567474c36dbbc8794a9b777&SDK=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IPv6 on!
+GS: OPENED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: RECV:{"@class":".AuthenticatedConnectResponse","nonce":"e94adc0a-659e-48d1-9c8f-6a532c181dff","requestId":"0"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: SEND:{"@class":".AuthenticatedConnectRequest","hmac":"Jd9c4J0H4oDO8B5sVKwxhaQ8rzu7jO+tiVwcJpFoC+E=","os":"WINDOWS","platform":"WindowsPlayer","deviceId":"f800b5cd77d761033567474c36dbbc8794a9b777","authToken":""}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: RECV:{"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"e94adc0a-659e-48d1-9c8f-6a532c181dff"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: Available
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connecting Facebook With GameSparks...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initializing Facebook...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InvalidOperationException: Pipe name not passed to application on start.
+ Make sure you are running inside the facebook games client.
+  at Facebook.Unity.Arcade.ArcadeWrapper..ctor () [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+Rethrow as TargetInvocationException: Exception has been thrown by the target of an invocation.
+  at System.Reflection.MonoCMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.MonoCMethod.Invoke (BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in <filename unknown>:0 
+  at System.Reflection.ConstructorInfo.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at System.Activator.CreateInstance (System.Type type, Boolean nonPublic) [0x00000] in <filename unknown>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <filename unknown>:0 
+  at Facebook.Unity.Arcade.ArcadeFacebook.GetArcadeWrapper () [0x00000] in <filename unknown>:0 
+  at Facebook.Unity.Arcade.ArcadeFacebook..ctor () [0x00000] in <filename unknown>:0 
+  at Facebook.Unity.Arcade.ArcadeFacebookLoader.get_FBGameObject () [0x00000] in <filename unknown>:0 
+  at Facebook.Unity.FB+CompiledFacebookLoader.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Connecting Facebook With GameSparks...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initializing Facebook...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FB.Init() has already been called.  You only need to call this once and only once.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.266334 ms
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+TerrainCollider: MeshCollider is not supported on terrain at the moment.
+ 
+(Filename:  Line: 188)
+
+
+Unloading 120 unused Assets to reduce memory usage. Loaded Objects now: 2631.
+Total: 6.342340 ms (FindLiveObjects: 0.196181 ms CreateObjectMapping: 0.212529 ms MarkObjects: 2.012294 ms  DeleteObjects: 3.920474 ms)
+
